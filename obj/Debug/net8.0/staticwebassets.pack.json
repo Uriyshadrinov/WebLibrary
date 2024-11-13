@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BookApp\\BookApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookApp.props",
+      "PackagePath": "build\\BookApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookApp.props",
+      "PackagePath": "buildMultiTargeting\\BookApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookApp.props",
+      "PackagePath": "buildTransitive\\BookApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

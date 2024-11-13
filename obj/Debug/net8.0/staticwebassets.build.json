@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sT64+khuAm5BbhCGWtw7Ea6SfaeKeo9FK7ktp0SFBiU=",
+  "Source": "BookApp",
+  "BasePath": "_content/BookApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookApp\\wwwroot",
+      "Source": "BookApp",
+      "ContentRoot": "D:\\BookApp\\BookApp\\wwwroot\\",
+      "BasePath": "_content/BookApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BookApp\\BookApp\\wwwroot\\index.html",
+      "SourceId": "BookApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BookApp\\BookApp\\wwwroot\\",
+      "BasePath": "_content/BookApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
